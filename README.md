@@ -42,7 +42,7 @@ modelo.predict(source='0', show=True)
 ```
 ## Exemplos
 ![Captura de tela 2024-07-02 150315](https://github.com/JFcamp/Reconhecimento-de-objetos/assets/149902237/916e4cee-03b7-4f77-920f-0e6fbe82bd7f)
-
+![Captura de tela 2024-07-02 151913](https://github.com/JFcamp/Reconhecimento-de-objetos/assets/149902237/062ed880-b350-4bce-b721-689083c15206)
 ## Observações
 -Certifique-se de que a sua webcam está funcionando corretamente.
 -Para usar um vídeo pré-gravado ou imagens estáticas em vez de uma webcam, substitua '0' pelo caminho do arquivo de vídeo ou da imagem.
