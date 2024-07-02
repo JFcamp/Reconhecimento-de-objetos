@@ -40,6 +40,8 @@ modelo = YOLO('yolov8n.pt')
 ```bash
 modelo.predict(source='0', show=True)
 ```
+## Exemplos
+![Captura de tela 2024-07-02 150315](https://github.com/JFcamp/Reconhecimento-de-objetos/assets/149902237/916e4cee-03b7-4f77-920f-0e6fbe82bd7f)
 
 ## Observações
 -Certifique-se de que a sua webcam está funcionando corretamente.
